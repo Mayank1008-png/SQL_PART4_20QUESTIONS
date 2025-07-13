@@ -1,5 +1,4 @@
-# SQL_PART4_20QUESTIONS
-# SQL_PART4_25QUESTIONS  
+# SQL_PART4_20QUESTIONS  
 # 🧩 SQL 200+ Practice Series – Part 4 (Advanced Scenarios, Nested Logic & Real-World Joins)
 
 Welcome to **Part 4** of my **200+ SQL Interview Practice Series**, where we dive even deeper into practical SQL challenges using:
